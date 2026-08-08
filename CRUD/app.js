@@ -1,0 +1,1 @@
+console.log("Just writting in app.js"); // idk
